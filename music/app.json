@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "RN Music Player",
+    "slug": "music",
+    "icon": "./musilogo(1).png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "20d131a1-92f3-4f28-a123-f58f2efdd275"
+      }
+    }
+  },
+  "name": "music"
+}
